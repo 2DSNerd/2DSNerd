@@ -17,13 +17,13 @@ I Know Java, C#, C++, Lua, HTML, And Some Markdown
 <br>
 <br>
 
-# What I Want To learn
+# What I Want To Learn
 I Want To Learn Python For AI And CSS For Making Stuff Look Better
 <br>
 <br>
 <br>
 
-# Mods Im Working On
+# Mods I am working On
 
 If Been Working On My Mods Named, You Stand No Chance,<br>
 And Extra Enchants Reworked
