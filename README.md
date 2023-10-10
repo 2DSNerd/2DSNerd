@@ -12,7 +12,7 @@ I Code In Multiple Languages
 
 # Languges <br>
 
-I Know Java, C#, C++, Lua, HTML, And Some Markdown
+I Know Java, C, Lua, HTML, And Markdown
 <br>
 <br>
 <br>
