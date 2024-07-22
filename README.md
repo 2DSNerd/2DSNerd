@@ -1,6 +1,3 @@
-# I SWITCHED TO GITLAB THE REPOS ON HERE ARE OUT OF DATE
-
-
 I Code In Multiple Languages
 <br>
 <br>
